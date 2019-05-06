@@ -1,0 +1,2 @@
+# Java-EE-Spring-e-Hibernate---Proyecto
+Proyecto para practicar fundamentos de Spring e Hibernate en Java EE, utilizando Eclipse como IDE. El proyecto consta de una agenda de reservas hoteleras, donde se almacenan datos del cliente, tales como nombres, emails, tel, fecha de entrada y salida del establecimiento, etc. Para el desarrollo del proyecto se usaron herramientas como maven, docker y omnidb en lo que es bases de datos, spring y algunas de sus dependencias como 
